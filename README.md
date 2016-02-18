@@ -1,7 +1,9 @@
+*THIS PLUGING IS OUTDATED AND WON'T WORK WITH THE LATEST LINKWISE API.*
+
 Woocommerce Linkwise Connection
 =========
 
-Inject appropriate scripts for connecting with Linkwise\'s platform — Edit
+Inject appropriate scripts for connecting with Linkwise\'s platform â€” Edit
 
 Instalation
 -----------
